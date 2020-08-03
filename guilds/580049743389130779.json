@@ -1,0 +1,126 @@
+{
+  "version": "5.0.3",
+  "name": "The Mecha Project",
+  "id": "580049743389130779",
+  "sources": {
+    "-183075939msubsreleaseswordpresscom-94385": {
+      "title": "/m/subs",
+      "link": "https://msubsreleases.wordpress.com/feed/",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:06:17.124Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "-878328968wwwshanaprojectcom-769": {
+      "title": "Shana Project RSS - ARR",
+      "link": "https://www.shanaproject.com/feeds/subber/ARR/",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:09:44.850Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "637096436lonelychasersubsblogspotcom-49872": {
+      "title": "LonelyChaser Fansubs",
+      "link": "https://lonelychasersubs.blogspot.com/feeds/posts/default",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:12:17.107Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "1442304699grayphantomwordpresscom-67309": {
+      "title": "Untitled",
+      "link": "https://grayphantom.wordpress.com/feed/",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:12:53.420Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "15574581karyuudofansubsblogspotcom-48259": {
+      "title": "Karyuudo Fansubs　狩人ファンサブ",
+      "link": "http://karyuudofansubs.blogspot.com/feeds/posts/default",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:13:51.360Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "1326401991wwwinka-subsnet-20376": {
+      "title": "Inka-Subs",
+      "link": "http://www.inka-subs.net/feeds/posts/default",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:14:24.750Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "-891710256skarohuntingsocietywordpresscom-30350": {
+      "title": "THE SKARO HUNTING SOCIETY",
+      "link": "https://skarohuntingsociety.wordpress.com/feed/",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:15:10.091Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "-1996324058goodanimenevergetsoldwordpresscom-32487": {
+      "title": "Good Anime Never Gets Old",
+      "link": "https://goodanimenevergetsold.wordpress.com/feed/",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:15:37.928Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "-1860014276luurahwordpresscom-65431": {
+      "title": "Luurah Productions",
+      "link": "https://luurah.wordpress.com/feed/",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:16:15.238Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "-14149122johnnyenglishsubswordpresscom-18603": {
+      "title": "johnnyenglishsubs",
+      "link": "https://johnnyenglishsubs.wordpress.com/feed/",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:17:42.944Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "330024628wwwshanaprojectcom-42024": {
+      "title": "Shana Project RSS - AnimeShinigami",
+      "link": "https://www.shanaproject.com/feeds/subber/AnimeShinigami/",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:18:41.001Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "2077348197wwwyoutubecom-44043": {
+      "title": "Youtube - Silver Castle",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJU9nuDxPTGnuX2WZriZVBg",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:20:48.199Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "1303592213wwwyoutubecom-36459": {
+      "title": "Youtube - Subdivers",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDZ_DWX9-z-TCrM35olVB3A",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:25:48.218Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "-99652032wwwtvnihoncom-19277": {
+      "title": "#TV-Nihon",
+      "link": "http://www.tvnihon.com/rss.xml",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-19T21:26:55.673Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "-1132233926wrkpblcit-61550": {
+      "title": "Untitled",
+      "link": "https://wrk.pblc.it/twitter-rss-feed-generator/api/twitter2rss?url=YlpubDYyT01QS0xDUWRsRFh3UzJlbDdkc0FKWHhRQVBVaFRETE9Vd0M1NWgzZGJjRXlNZlFVaXVIWWkyd2RKOQ==",
+      "channel": "675162565994872832",
+      "addedOn": "2020-02-21T16:32:56.993Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "1988518819berekescrubswordpresscom-11261": {
+      "title": "Bereke Scrubs",
+      "link": "https://berekescrubs.wordpress.com/feed/",
+      "channel": "675162565994872832",
+      "addedOn": "2020-06-21T01:58:26.935Z",
+      "lastRefreshRateMin": 0.5
+    },
+    "1242870239rssapp-55444": {
+      "title": "Weeaboo Shogun (@WeeabooShogun) / Twitter",
+      "link": "https://rss.app/feeds/gmaJlYpo2H9x4dTw.xml",
+      "channel": "675162565994872832",
+      "addedOn": "2020-06-21T02:07:20.284Z",
+      "lastRefreshRateMin": 0.5
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "harob0t",
+  "version": "1.0.0",
+  "description": "RSS & twitter b0t",
+  "main": "index.js",
+  "author": "TezukaSensei",
+  "license": "ISC",
+
+"scripts": {
+  "start": "node server.js",
+  "postinstall": "cd src && cd web && npm install",
+  "dev": "node -r dotenv/config server.js",
+  "dev-sharded": "node -r dotenv/config server-manager.js",
+  "test": "jest ./src/tests --detectOpenHandles --testTimeout=10000",
+  "test-unit": "jest ./src/tests --detectOpenHandles --testRegex=unit_",
+  "test-watch-unit": "jest ./src/tests --detectOpenHandles --testRegex=unit_ --watchAll",
+  "test-int": "jest ./src/tests --detectOpenHandles --testRegex=int_ --testTimeout=10000",
+  "test-watch-int": "jest ./src/tests --detectOpenHandles --testRegex=int_ --testTimeout=10000 --watchAll",
+  "test-watch": "jest ./src/tests --detectOpenHandles --watchAll",
+  "eslint": "eslint --fix ./src"
+},
+"dependencies": {
+  "cloudscraper": "^4.6.0",
+  "discord.js": "^11.5.1",
+  "feedparser": "^2.2.9",
+  "html-to-text": "^5.1.1",
+  "iconv-lite": "^0.4.24",
+  "moment": "^2.24.0",
+  "moment-timezone": "^0.5.27",
+  "mongoose": "^5.9.1",
+  "node-fetch": "^2.6.0",
+  "redis": "^2.8.0",
+  "request": "^2.88.2"
+},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/synzen/Discord.RSS.git"
+},
+"engines": {
+  "node": "10.x",
+  "npm": "6.x"
+},
+"devDependencies": {
+  "@shelf/jest-mongodb": "^1.1.3",
+  "@types/jest": "^24.9.1",
+  "dotenv": "^8.2.0",
+  "eslint": "^5.16.0",
+  "eslint-config-standard": "^12.0.0",
+  "eslint-plugin-import": "^2.20.1",
+  "eslint-plugin-node": "^9.2.0",
+  "eslint-plugin-promise": "^4.2.1",
+  "eslint-plugin-standard": "^4.0.1",
+  "jest": "^24.9.0"
+},
+"optionalDependencies": {
+  "bufferutil": "^4.0.1",
+  "erlpack": "github:discordapp/erlpack",
+  "utf-8-validate": "^5.0.2",
+  "zlib-sync": "^0.1.6"
+}
+}
+
